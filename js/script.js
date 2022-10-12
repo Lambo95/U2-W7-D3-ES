@@ -202,7 +202,9 @@ function showAllUtenti() {
 
 function showSearch() {
   let searchInputValue = document.getElementById("search-input").value;
+  console.log(searchInputValue);
   let searchId = arrayParseMix.filter((item) => item.id.toLowerCase().includes(searchInputValue));
+  console.log(searchId);
   let searchTitle = arrayParseMix.find((item) => item.title.toLowerCase().includes(searchInputValue));
   let searchName = arrayParseMix.find((item) => item.name.toLowerCase().includes(searchInputValue));
   let searchYear = arrayParseMix.find((item) => item.anno.toLowerCase().includes(searchInputValue));
