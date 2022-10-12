@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Le iene",
+    "anno": "1992",
+    "regista": "Quentin Tarantino",
+    "link": "/assets/media/img7-li.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pulp Fiction ",
+    "anno": "1994",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Pulp_Fiction"
+  },
+  {
+    "id": 3,
+    "title": "Jackie Brown ",
+    "anno": "1997",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Jackie_Brown"
+  },
+  {
+    "id": 4,
+    "title": "Kill Bill: Volume 1 - 2",
+    "anno": "2003 - 2004",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Kill_Bill:_Volume_1"
+  },
+  {
+    "id": 5,
+    "title": "Grindhouse - A prova di morte",
+    "anno": "2007",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Grindhouse_-_A_prova_di_morte"
+  },
+  {
+    "id": 6,
+    "title": "Bastardi senza gloria",
+    "anno": "2009",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Bastardi_senza_gloria"
+  },
+  {
+    "id": 7,
+    "title": "Django Unchained",
+    "anno": "2012",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/Django_Unchained"
+  },
+  {
+    "id": 8,
+    "title": "The Hateful Eight ",
+    "anno": "2015",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/The_Hateful_Eight"
+  },
+  {
+    "id": 9,
+    "title": "C'era una volta a... Hollywood",
+    "anno": "2019",
+    "regista": "Quentin Tarantino",
+    "link": "https://it.wikipedia.org/wiki/C%27era_una_volta_a..._Hollywood"
+  },
+  {
+    "id": 10,
+    "title": "Io e Annie",
+    "anno": "1977",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Io_e_Annie"
+  },
+  {
+    "id": 11,
+    "title": "Zelig",
+    "anno": "1983",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Zelig_(film)"
+  },
+  {
+    "id": 12,
+    "title": "Radio Days",
+    "anno": "1987",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Radio_Days"
+  },
+  {
+    "id": 13,
+    "title": "Harry a pezzi",
+    "anno": "1997",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Harry_a_pezzi"
+  },
+  {
+    "id": 14,
+    "title": "Vicky Cristina Barcelona",
+    "anno": "2008",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Vicky_Cristina_Barcelona"
+  },
+  {
+    "id": 15,
+    "title": "Midnight in Paris",
+    "anno": "2011",
+    "regista": "Woody Allen",
+    "link": "https://it.wikipedia.org/wiki/Midnight_in_Paris"
+  }
+]
